@@ -1,0 +1,25 @@
+
+{
+  "display": {
+    "name": "Dungeon Chain",
+    "description": "Dungeon Chain is a permissioned gaming blockchain designed to enhance the Cosmos Ecosystem and onboard non-crypto users into the crypto space. Leveraging the Cosmos Hub's shared security validator set, it will be one of the first permissionless chains launched using the Forge framework on Cosmos. Created by Crypto Dungeon—a Cosmos Ecosystem validator and game developer—Dungeon Chain aims to promote interchain collaboration and support the growth of the Cosmos community.
+
+Our inaugural interchain game, "Kosmic Quest," will launch later this year, connecting nine different Cosmos blockchains. Designed for mobile devices, Kosmic Quest seeks to engage mobile gamers in a fun and secure environment while educating them about the advantages of crypto. We are committed to delivering an enjoyable and rewarding experience that showcases the benefits of web3 gaming while mitigating common pitfalls. Following the success of Kosmic Quest, we plan to assist others in developing their own interchain games.",
+    "links": {
+      "logo": "https://drive.google.com/file/d/1QQDqsH7nrkyPsoIgCI9HSDH70_Y33chO/view?usp=sharing",
+      "discord": "https://t.co/mOgwJaEpd9",
+      "email": "cryptodungeonma@gmail.com",
+      "github": "https://github.com/CryptoDungeon/dungeonchain",
+      "telegram": "https://t.me/cryptodungeon1",
+      "twitter": "https://x.com/cryptodungeonma",
+      "website": "https://www.cryptodungeon.org",
+      "whitepaper": "https://docs.google.com/document/d/1Fb6ZR6FEbXJhJlAAxclQl-WYLz2HpOvZf5c8cdBdC7Q/edit?usp=sharing    "
+    },
+    "widget": {
+      "title": "Check out our website for more information",
+      "description": "Learn more about Crypto Dungeon and Dungeon Chain as well as our upcoming mobile game Kosmic Quest.",
+      "buttonText": "Learn more",
+      "buttonUrl": "https://www.cryptodungeon.org"
+    }
+  }
+}
